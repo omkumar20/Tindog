@@ -138,4 +138,10 @@ p {
   #title {
     text-align: center;
   }
+  h2 {
+    font-size: 2rem;
+  }
+  #pricing {
+    padding: 60px;
+  }
 }
